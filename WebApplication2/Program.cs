@@ -9,6 +9,7 @@ using Microsoft.Extensions.Logging;
 
 namespace WebApplication2
 {
+#OK adding comments to try and see what happens
     public class Program
     {
         public static void Main(string[] args)
